@@ -1,0 +1,505 @@
+﻿Grand Prix;Pilote;Écurie;Nationalité;Pos Départ;Pos Arrivée;Points Course;Podium;DNF;Temps;Points Cumulés;Podiums Cumulés;DNF Cumulés;Moyenne Points/GP;Moyenne Pos Arrivée;Taux DNF (%)
+01. Bahreïn;Hülkenberg;Kick Sauber;Allemand;1;1;25;1;0;01:27:05;25;1;0;25.0;1.0;0.0
+01. Bahreïn;Piastri;McLaren;Australien;5;2;18;1;0;01:27:09;18;1;0;18.0;2.0;0.0
+01. Bahreïn;Verstappen;Red Bull;Néerlandais;6;3;15;1;0;01:27:16;15;1;0;15.0;3.0;0.0
+01. Bahreïn;Leclerc;Ferrari;Monégasque;1;4;12;0;0;01:27:15;12;0;0;12.0;4.0;0.0
+01. Bahreïn;Norris;McLaren;Britannique;2;5;10;0;0;01:27:17;10;0;0;10.0;5.0;0.0
+01. Bahreïn;Hadjar;Racing Bulls;Français;6;6;8;0;0;01:27:25;8;0;0;8.0;6.0;0.0
+01. Bahreïn;Gasly;Alpine;Français;7;7;6;0;0;01:27:30;6;0;0;6.0;7.0;0.0
+01. Bahreïn;Stroll;Aston Martin;Canadien;7;8;4;0;0;01:27:23;4;0;0;4.0;8.0;0.0
+01. Bahreïn;Tsunoda;Red Bull;Japonais;9;9;2;0;0;01:27:31;2;0;0;2.0;9.0;0.0
+01. Bahreïn;Hamilton;Ferrari;Britannique;8;10;1;0;0;01:27:36;1;0;0;1.0;10.0;0.0
+01. Bahreïn;Sainz;Williams;Espagnol;9;11;0;0;0;01:27:48;0;0;0;0.0;11.0;0.0
+01. Bahreïn;Russell;Mercedes;Britannique;15;12;0;0;0;01:27:42;0;0;0;0.0;12.0;0.0
+01. Bahreïn;Alonso;Aston Martin;Espagnol;11;13;0;0;0;01:27:54;0;0;0;0.0;13.0;0.0
+01. Bahreïn;Lawson;Red Bull;Néo-Zélandais;17;14;0;0;0;01:27:35;0;0;0;0.0;14.0;0.0
+01. Bahreïn;Colapinto;Alpine;Argentin;17;15;0;0;0;01:28:01;0;0;0;0.0;15.0;0.0
+01. Bahreïn;Bearman;Haas;Britannique;15;16;0;0;0;01:27:38;0;0;0;0.0;16.0;0.0
+01. Bahreïn;Antonelli;Mercedes;Italien;20;17;0;0;0;01:28:07;0;0;0;0.0;17.0;0.0
+01. Bahreïn;Albon;Williams;Thaïlandais;18;18;0;0;0;01:28:10;0;0;0;0.0;18.0;0.0
+01. Bahreïn;Bortoleto;Kick Sauber;Brésilien;17;19;0;0;0;01:28:05;0;0;0;0.0;19.0;0.0
+01. Bahreïn;Doohan;Alpine;Australien;21;DNF;0;0;1;N/A;0;0;1;0.0;;100.0
+01. Bahreïn;Ocon;Haas;Français;21;DNF;0;0;1;N/A;0;0;1;0.0;;100.0
+02. Arabie Saoudite;Verstappen;Red Bull;Néerlandais;4;1;25;1;0;01:32:02;40;2;0;20.0;2.0;0.0
+02. Arabie Saoudite;Doohan;Alpine;Australien;2;2;18;1;0;01:32:09;18;1;1;9.0;2.0;50.0
+02. Arabie Saoudite;Hamilton;Ferrari;Britannique;3;3;15;1;0;01:32:13;16;1;0;8.0;6.5;0.0
+02. Arabie Saoudite;Tsunoda;Red Bull;Japonais;3;4;12;0;0;01:32:16;14;0;0;7.0;6.5;0.0
+02. Arabie Saoudite;Hülkenberg;Kick Sauber;Allemand;5;5;10;0;0;01:32:12;35;1;0;17.5;3.0;0.0
+02. Arabie Saoudite;Lawson;Red Bull;Néo-Zélandais;4;6;8;0;0;01:32:25;8;0;0;4.0;10.0;0.0
+02. Arabie Saoudite;Leclerc;Ferrari;Monégasque;13;7;6;0;0;01:32:16;18;0;0;9.0;5.5;0.0
+02. Arabie Saoudite;Piastri;McLaren;Australien;8;8;4;0;0;01:32:29;22;1;0;11.0;5.0;0.0
+02. Arabie Saoudite;Stroll;Aston Martin;Canadien;7;9;2;0;0;01:32:32;6;0;0;3.0;8.5;0.0
+02. Arabie Saoudite;Antonelli;Mercedes;Italien;10;10;1;0;0;01:32:35;1;0;0;0.5;13.5;0.0
+02. Arabie Saoudite;Bortoleto;Kick Sauber;Brésilien;6;11;0;0;0;01:32:31;0;0;0;0.0;15.0;0.0
+02. Arabie Saoudite;Russell;Mercedes;Britannique;15;12;0;0;0;01:32:33;0;0;0;0.0;12.0;0.0
+02. Arabie Saoudite;Norris;McLaren;Britannique;13;13;0;0;0;01:32:39;10;0;0;5.0;9.0;0.0
+02. Arabie Saoudite;Ocon;Haas;Français;19;14;0;0;0;01:32:34;0;0;1;0.0;14.0;50.0
+02. Arabie Saoudite;Albon;Williams;Thaïlandais;15;15;0;0;0;01:32:48;0;0;0;0.0;16.5;0.0
+02. Arabie Saoudite;Bearman;Haas;Britannique;15;16;0;0;0;01:32:35;0;0;0;0.0;16.0;0.0
+02. Arabie Saoudite;Alonso;Aston Martin;Espagnol;21;17;0;0;0;01:32:46;0;0;0;0.0;15.0;0.0
+02. Arabie Saoudite;Sainz;Williams;Espagnol;19;18;0;0;0;01:33:08;0;0;0;0.0;14.5;0.0
+02. Arabie Saoudite;Colapinto;Alpine;Argentin;21;19;0;0;0;01:32:44;0;0;0;0.0;17.0;0.0
+02. Arabie Saoudite;Gasly;Alpine;Français;21;DNF;0;0;1;N/A;6;0;1;3.0;7.0;50.0
+02. Arabie Saoudite;Hadjar;Racing Bulls;Français;19;DNF;0;0;1;N/A;8;0;1;4.0;6.0;50.0
+03. Australie;Verstappen;Red Bull;Néerlandais;1;1;25;1;0;01:27:19;65;3;0;21.67;1.7;0.0
+03. Australie;Leclerc;Ferrari;Monégasque;2;2;18;1;0;01:27:24;36;1;0;12.0;4.3;0.0
+03. Australie;Lawson;Red Bull;Néo-Zélandais;7;3;15;1;0;01:27:30;23;1;0;7.67;7.7;0.0
+03. Australie;Hadjar;Racing Bulls;Français;3;4;12;0;0;01:27:30;20;0;1;6.67;5.0;33.3
+03. Australie;Hamilton;Ferrari;Britannique;5;5;10;0;0;01:27:36;26;1;0;8.67;6.0;0.0
+03. Australie;Antonelli;Mercedes;Italien;6;6;8;0;0;01:27:37;9;0;0;3.0;11.0;0.0
+03. Australie;Alonso;Aston Martin;Espagnol;12;7;6;0;0;01:27:44;6;0;0;2.0;12.3;0.0
+03. Australie;Norris;McLaren;Britannique;6;8;4;0;0;01:27:40;14;0;0;4.67;8.7;0.0
+03. Australie;Hülkenberg;Kick Sauber;Allemand;5;9;2;0;0;01:27:49;37;1;0;12.33;5.0;0.0
+03. Australie;Tsunoda;Red Bull;Japonais;9;10;1;0;0;01:27:57;15;0;0;5.0;7.7;0.0
+03. Australie;Albon;Williams;Thaïlandais;12;11;0;0;0;01:27:48;0;0;0;0.0;14.7;0.0
+03. Australie;Piastri;McLaren;Australien;15;12;0;0;0;01:27:48;22;1;0;7.33;7.3;0.0
+03. Australie;Russell;Mercedes;Britannique;12;13;0;0;0;01:27:55;0;0;0;0.0;12.3;0.0
+03. Australie;Gasly;Alpine;Français;18;14;0;0;0;01:28:00;6;0;1;2.0;10.5;33.3
+03. Australie;Doohan;Alpine;Australien;15;15;0;0;0;01:28:02;18;1;1;6.0;8.5;33.3
+03. Australie;Sainz;Williams;Espagnol;14;16;0;0;0;01:28:08;0;0;0;0.0;15.0;0.0
+03. Australie;Bearman;Haas;Britannique;20;DNF;0;0;1;N/A;0;0;1;0.0;16.0;33.3
+03. Australie;Bortoleto;Kick Sauber;Brésilien;21;DNF;0;0;1;N/A;0;0;1;0.0;15.0;33.3
+03. Australie;Colapinto;Alpine;Argentin;15;DNF;0;0;1;N/A;0;0;1;0.0;17.0;33.3
+03. Australie;Ocon;Haas;Français;21;DNF;0;0;1;N/A;0;0;2;0.0;14.0;66.7
+03. Australie;Stroll;Aston Martin;Canadien;18;DNF;0;0;1;N/A;6;0;1;2.0;8.5;33.3
+04. Japon;Verstappen;Red Bull;Néerlandais;2;1;25;1;0;01:31:17;90;4;0;22.5;1.5;0.0
+04. Japon;Hamilton;Ferrari;Britannique;5;2;18;1;0;01:31:24;44;2;0;11.0;5.0;0.0
+04. Japon;Colapinto;Alpine;Argentin;2;3;15;1;0;01:31:25;15;1;1;3.75;12.3;25.0
+04. Japon;Piastri;McLaren;Australien;1;4;12;0;0;01:31:28;34;1;0;8.5;6.5;0.0
+04. Japon;Doohan;Alpine;Australien;1;5;10;0;0;01:31:29;28;1;1;7.0;7.3;25.0
+04. Japon;Albon;Williams;Thaïlandais;9;6;8;0;0;01:31:35;8;0;0;2.0;12.5;0.0
+04. Japon;Leclerc;Ferrari;Monégasque;7;7;6;0;0;01:31:39;42;1;0;10.5;5.0;0.0
+04. Japon;Norris;McLaren;Britannique;9;8;4;0;0;01:31:42;18;0;0;4.5;8.5;0.0
+04. Japon;Bearman;Haas;Britannique;7;9;2;0;0;01:31:50;2;0;1;0.5;13.7;25.0
+04. Japon;Stroll;Aston Martin;Canadien;6;10;1;0;0;01:31:40;7;0;1;1.75;9.0;25.0
+04. Japon;Hülkenberg;Kick Sauber;Allemand;13;11;0;0;0;01:31:49;37;1;0;9.25;6.5;0.0
+04. Japon;Hadjar;Racing Bulls;Français;9;12;0;0;0;01:31:46;20;0;1;5.0;7.3;25.0
+04. Japon;Russell;Mercedes;Britannique;14;13;0;0;0;01:31:57;0;0;0;0.0;12.5;0.0
+04. Japon;Alonso;Aston Martin;Espagnol;14;14;0;0;0;01:32:11;6;0;0;1.5;12.8;0.0
+04. Japon;Bortoleto;Kick Sauber;Brésilien;16;15;0;0;0;01:31:51;0;0;1;0.0;15.0;25.0
+04. Japon;Sainz;Williams;Espagnol;18;16;0;0;0;01:31:54;0;0;0;0.0;15.2;0.0
+04. Japon;Lawson;Red Bull;Néo-Zélandais;17;17;0;0;0;01:32:00;23;1;0;5.75;10.0;0.0
+04. Japon;Antonelli;Mercedes;Italien;15;DNF;0;0;1;N/A;9;0;1;2.25;11.0;25.0
+04. Japon;Gasly;Alpine;Français;19;DNF;0;0;1;N/A;6;0;2;1.5;10.5;50.0
+04. Japon;Ocon;Haas;Français;18;DNF;0;0;1;N/A;0;0;3;0.0;14.0;75.0
+04. Japon;Tsunoda;Red Bull;Japonais;17;DNF;0;0;1;N/A;15;0;1;3.75;7.7;25.0
+05. Chine;Piastri;McLaren;Australien;1;1;25;1;0;01:35:44;59;2;0;11.8;5.4;0.0
+05. Chine;Hülkenberg;Kick Sauber;Allemand;2;2;18;1;0;01:35:48;55;2;0;11.0;5.6;0.0
+05. Chine;Ocon;Haas;Français;3;3;15;1;0;01:35:51;15;1;3;3.0;8.5;60.0
+05. Chine;Bortoleto;Kick Sauber;Brésilien;3;4;12;0;0;01:35:57;12;0;1;2.4;12.2;20.0
+05. Chine;Verstappen;Red Bull;Néerlandais;4;5;10;0;0;01:36:00;100;4;0;20.0;2.2;0.0
+05. Chine;Colapinto;Alpine;Argentin;6;6;8;0;0;01:36:05;23;1;1;4.6;10.8;20.0
+05. Chine;Gasly;Alpine;Français;1;7;6;0;0;01:35:58;12;0;2;2.4;9.3;40.0
+05. Chine;Tsunoda;Red Bull;Japonais;6;8;4;0;0;01:36:00;19;0;1;3.8;7.8;20.0
+05. Chine;Lawson;Red Bull;Néo-Zélandais;9;9;2;0;0;01:36:05;25;1;0;5.0;9.8;0.0
+05. Chine;Leclerc;Ferrari;Monégasque;13;10;1;0;0;01:36:13;43;1;0;8.6;6.0;0.0
+05. Chine;Norris;McLaren;Britannique;11;11;0;0;0;01:36:17;18;0;0;3.6;9.0;0.0
+05. Chine;Hamilton;Ferrari;Britannique;12;12;0;0;0;01:36:14;44;2;0;8.8;6.4;0.0
+05. Chine;Bearman;Haas;Britannique;13;13;0;0;0;01:36:14;2;0;1;0.4;13.5;20.0
+05. Chine;Hadjar;Racing Bulls;Français;14;14;0;0;0;01:36:21;20;0;1;4.0;9.0;20.0
+05. Chine;Doohan;Alpine;Australien;15;15;0;0;0;01:36:38;28;1;1;5.6;9.2;20.0
+05. Chine;Russell;Mercedes;Britannique;13;16;0;0;0;01:36:41;0;0;0;0.0;13.2;0.0
+05. Chine;Alonso;Aston Martin;Espagnol;10;17;0;0;0;01:36:32;6;0;0;1.2;13.6;0.0
+05. Chine;Albon;Williams;Thaïlandais;17;18;0;0;0;01:36:23;8;0;0;1.6;13.6;0.0
+05. Chine;Stroll;Aston Martin;Canadien;21;19;0;0;0;01:36:22;7;0;1;1.4;11.5;20.0
+05. Chine;Antonelli;Mercedes;Italien;21;DNF;0;0;1;N/A;9;0;2;1.8;11.0;40.0
+05. Chine;Sainz;Williams;Espagnol;20;DNF;0;0;1;N/A;0;0;1;0.0;15.2;20.0
+06. Miami;Piastri;McLaren;Australien;1;1;25;1;0;01:27:34;84;3;0;14.0;4.7;0.0
+06. Miami;Doohan;Alpine;Australien;1;2;18;1;0;01:27:41;46;2;1;7.67;7.8;16.7
+06. Miami;Norris;McLaren;Britannique;4;3;15;1;0;01:27:42;33;1;0;5.5;8.0;0.0
+06. Miami;Alonso;Aston Martin;Espagnol;3;4;12;0;0;01:27:48;18;0;0;3.0;12.0;0.0
+06. Miami;Leclerc;Ferrari;Monégasque;5;5;10;0;0;01:27:48;53;1;0;8.83;5.8;0.0
+06. Miami;Stroll;Aston Martin;Canadien;9;6;8;0;0;01:27:56;15;0;1;2.5;10.4;16.7
+06. Miami;Hamilton;Ferrari;Britannique;7;7;6;0;0;01:27:53;50;2;0;8.33;6.5;0.0
+06. Miami;Hadjar;Racing Bulls;Français;7;8;4;0;0;01:27:54;24;0;1;4.0;8.8;16.7
+06. Miami;Bortoleto;Kick Sauber;Brésilien;16;9;2;0;0;01:27:57;14;0;1;2.33;11.6;16.7
+06. Miami;Verstappen;Red Bull;Néerlandais;8;10;1;0;0;01:28:09;101;4;0;16.83;3.5;0.0
+06. Miami;Bearman;Haas;Britannique;7;11;0;0;0;01:28:09;2;0;1;0.33;13.0;16.7
+06. Miami;Sainz;Williams;Espagnol;12;12;0;0;0;01:28:14;0;0;1;0.0;14.6;16.7
+06. Miami;Albon;Williams;Thaïlandais;21;13;0;0;0;01:28:05;8;0;0;1.33;13.5;0.0
+06. Miami;Russell;Mercedes;Britannique;16;14;0;0;0;01:28:10;0;0;0;0.0;13.3;0.0
+06. Miami;Antonelli;Mercedes;Italien;11;15;0;0;0;01:28:26;9;0;2;1.5;12.0;33.3
+06. Miami;Hülkenberg;Kick Sauber;Allemand;14;16;0;0;0;01:28:33;55;2;0;9.17;7.3;0.0
+06. Miami;Lawson;Red Bull;Néo-Zélandais;14;17;0;0;0;01:28:23;25;1;0;4.17;11.0;0.0
+06. Miami;Gasly;Alpine;Français;17;18;0;0;0;01:28:28;12;0;2;2.0;11.5;33.3
+06. Miami;Ocon;Haas;Français;11;19;0;0;0;01:28:24;15;1;3;2.5;12.0;50.0
+06. Miami;Colapinto;Alpine;Argentin;20;20;0;0;0;01:28:15;23;1;1;3.83;12.6;16.7
+06. Miami;Tsunoda;Red Bull;Japonais;18;DNF;0;0;1;N/A;19;0;2;3.17;7.8;33.3
+07. Émilie-Romagne;Piastri;McLaren;Australien;8;1;25;1;0;01:31:09;109;4;0;15.57;4.1;0.0
+07. Émilie-Romagne;Antonelli;Mercedes;Italien;2;2;18;1;0;01:31:13;27;1;2;3.86;10.0;28.6
+07. Émilie-Romagne;Verstappen;Red Bull;Néerlandais;3;3;15;1;0;01:31:15;116;5;0;16.57;3.4;0.0
+07. Émilie-Romagne;Doohan;Alpine;Australien;8;4;12;0;0;01:31:23;58;2;1;8.29;7.2;14.3
+07. Émilie-Romagne;Norris;McLaren;Britannique;5;5;10;0;0;01:31:23;43;1;0;6.14;7.6;0.0
+07. Émilie-Romagne;Hamilton;Ferrari;Britannique;4;6;8;0;0;01:31:23;58;2;0;8.29;6.4;0.0
+07. Émilie-Romagne;Russell;Mercedes;Britannique;7;7;6;0;0;01:31:28;6;0;0;0.86;12.4;0.0
+07. Émilie-Romagne;Stroll;Aston Martin;Canadien;9;8;4;0;0;01:31:40;19;0;1;2.71;10.0;14.3
+07. Émilie-Romagne;Alonso;Aston Martin;Espagnol;6;9;2;0;0;01:31:27;20;0;0;2.86;11.6;0.0
+07. Émilie-Romagne;Leclerc;Ferrari;Monégasque;5;10;1;0;0;01:31:31;54;1;0;7.71;6.4;0.0
+07. Émilie-Romagne;Colapinto;Alpine;Argentin;13;11;0;0;0;01:31:40;23;1;1;3.29;12.3;14.3
+07. Émilie-Romagne;Sainz;Williams;Espagnol;13;12;0;0;0;01:31:56;0;0;1;0.0;14.2;14.3
+07. Émilie-Romagne;Hadjar;Racing Bulls;Français;13;13;0;0;0;01:31:39;24;0;1;3.43;9.5;14.3
+07. Émilie-Romagne;Lawson;Red Bull;Néo-Zélandais;9;14;0;0;0;01:31:51;25;1;0;3.57;11.4;0.0
+07. Émilie-Romagne;Gasly;Alpine;Français;13;15;0;0;0;01:32:05;12;0;2;1.71;12.2;28.6
+07. Émilie-Romagne;Bearman;Haas;Britannique;17;16;0;0;0;01:31:48;2;0;1;0.29;13.5;14.3
+07. Émilie-Romagne;Hülkenberg;Kick Sauber;Allemand;20;17;0;0;0;01:32:06;55;2;0;7.86;8.7;0.0
+07. Émilie-Romagne;Bortoleto;Kick Sauber;Brésilien;18;18;0;0;0;01:31:48;14;0;1;2.0;12.7;14.3
+07. Émilie-Romagne;Ocon;Haas;Français;21;19;0;0;0;01:32:18;15;1;3;2.14;13.8;42.9
+07. Émilie-Romagne;Albon;Williams;Thaïlandais;19;DNF;0;0;1;N/A;8;0;1;1.14;13.5;14.3
+07. Émilie-Romagne;Tsunoda;Red Bull;Japonais;21;DNF;0;0;1;N/A;19;0;3;2.71;7.8;42.9
+08. Monaco;Alonso;Aston Martin;Espagnol;1;1;25;1;0;01:34:52;45;1;0;5.62;10.2;0.0
+08. Monaco;Leclerc;Ferrari;Monégasque;3;2;18;1;0;01:34:59;72;2;0;9.0;5.9;0.0
+08. Monaco;Albon;Williams;Thaïlandais;4;3;15;1;0;01:35:00;23;1;1;2.88;12.0;12.5
+08. Monaco;Norris;McLaren;Britannique;7;4;12;0;0;01:35:01;55;1;0;6.88;7.1;0.0
+08. Monaco;Bortoleto;Kick Sauber;Brésilien;1;5;10;0;0;01:35:08;24;0;1;3.0;11.6;12.5
+08. Monaco;Verstappen;Red Bull;Néerlandais;10;6;8;0;0;01:35:12;124;5;0;15.5;3.8;0.0
+08. Monaco;Hamilton;Ferrari;Britannique;12;7;6;0;0;01:35:14;64;2;0;8.0;6.5;0.0
+08. Monaco;Piastri;McLaren;Australien;7;8;4;0;0;01:35:23;113;4;0;14.12;4.6;0.0
+08. Monaco;Gasly;Alpine;Français;13;9;2;0;0;01:35:19;14;0;2;1.75;11.7;25.0
+08. Monaco;Stroll;Aston Martin;Canadien;9;10;1;0;0;01:35:30;20;0;1;2.5;10.0;12.5
+08. Monaco;Hadjar;Racing Bulls;Français;13;11;0;0;0;01:35:21;24;0;1;3.0;9.7;12.5
+08. Monaco;Russell;Mercedes;Britannique;8;12;0;0;0;01:35:39;6;0;0;0.75;12.4;0.0
+08. Monaco;Ocon;Haas;Français;11;13;0;0;0;01:35:37;15;1;3;1.88;13.6;37.5
+08. Monaco;Doohan;Alpine;Australien;14;14;0;0;0;01:35:41;58;2;1;7.25;8.1;12.5
+08. Monaco;Colapinto;Alpine;Argentin;19;15;0;0;0;01:35:27;23;1;1;2.88;12.7;12.5
+08. Monaco;Hülkenberg;Kick Sauber;Allemand;17;16;0;0;0;01:35:47;55;2;0;6.88;9.6;0.0
+08. Monaco;Tsunoda;Red Bull;Japonais;17;17;0;0;0;01:35:29;19;0;3;2.38;9.6;37.5
+08. Monaco;Sainz;Williams;Espagnol;19;18;0;0;0;01:35:58;0;0;1;0.0;14.7;12.5
+08. Monaco;Lawson;Red Bull;Néo-Zélandais;15;19;0;0;0;01:35:52;25;1;0;3.12;12.4;0.0
+08. Monaco;Antonelli;Mercedes;Italien;21;DNF;0;0;1;N/A;27;1;3;3.38;10.0;37.5
+08. Monaco;Bearman;Haas;Britannique;17;DNF;0;0;1;N/A;2;0;2;0.25;13.5;25.0
+09. Canada;Piastri;McLaren;Australien;10;1;25;1;0;01:29:58;138;5;0;15.33;4.2;0.0
+09. Canada;Verstappen;Red Bull;Néerlandais;1;2;18;1;0;01:30:02;142;6;0;15.78;3.6;0.0
+09. Canada;Sainz;Williams;Espagnol;2;3;15;1;0;01:30:05;15;1;1;1.67;13.2;11.1
+09. Canada;Hamilton;Ferrari;Britannique;4;4;12;0;0;01:30:08;76;2;0;8.44;6.2;0.0
+09. Canada;Bearman;Haas;Britannique;2;5;10;0;0;01:30:13;12;0;2;1.33;12.3;22.2
+09. Canada;Leclerc;Ferrari;Monégasque;1;6;8;0;0;01:30:20;80;2;0;8.89;5.9;0.0
+09. Canada;Norris;McLaren;Britannique;4;7;6;0;0;01:30:21;61;1;0;6.78;7.1;0.0
+09. Canada;Tsunoda;Red Bull;Japonais;8;8;4;0;0;01:30:26;23;0;3;2.56;9.3;33.3
+09. Canada;Russell;Mercedes;Britannique;9;9;2;0;0;01:30:17;8;0;0;0.89;12.0;0.0
+09. Canada;Albon;Williams;Thaïlandais;6;10;1;0;0;01:30:33;24;1;1;2.67;11.8;11.1
+09. Canada;Hadjar;Racing Bulls;Français;8;11;0;0;0;01:30:34;24;0;1;2.67;9.9;11.1
+09. Canada;Doohan;Alpine;Australien;14;12;0;0;0;01:30:42;58;2;1;6.44;8.6;11.1
+09. Canada;Antonelli;Mercedes;Italien;11;13;0;0;0;01:30:39;27;1;3;3.0;10.5;33.3
+09. Canada;Gasly;Alpine;Français;10;14;0;0;0;01:30:49;14;0;2;1.56;12.0;22.2
+09. Canada;Bortoleto;Kick Sauber;Brésilien;15;15;0;0;0;01:30:49;24;0;1;2.67;12.0;11.1
+09. Canada;Alonso;Aston Martin;Espagnol;17;16;0;0;0;01:30:54;45;1;0;5.0;10.9;0.0
+09. Canada;Hülkenberg;Kick Sauber;Allemand;16;17;0;0;0;01:30:37;55;2;0;6.11;10.4;0.0
+09. Canada;Stroll;Aston Martin;Canadien;20;18;0;0;0;01:31:09;20;0;1;2.22;11.0;11.1
+09. Canada;Lawson;Red Bull;Néo-Zélandais;21;19;0;0;0;01:31:10;25;1;0;2.78;13.1;0.0
+09. Canada;Ocon;Haas;Français;21;20;0;0;0;01:30:43;15;1;3;1.67;14.7;33.3
+09. Canada;Colapinto;Alpine;Argentin;21;21;0;0;0;01:30:50;23;1;1;2.56;13.8;11.1
+10. Espagne;Norris;McLaren;Britannique;1;1;25;1;0;01:33:54;86;2;0;8.6;6.5;0.0
+10. Espagne;Verstappen;Red Bull;Néerlandais;5;2;18;1;0;01:34:00;160;7;0;16.0;3.4;0.0
+10. Espagne;Bortoleto;Kick Sauber;Brésilien;4;3;15;1;0;01:34:00;39;1;1;3.9;11.0;10.0
+10. Espagne;Russell;Mercedes;Britannique;4;4;12;0;0;01:34:04;20;0;0;2.0;11.2;0.0
+10. Espagne;Bearman;Haas;Britannique;5;5;10;0;0;01:34:05;22;0;2;2.2;11.4;20.0
+10. Espagne;Albon;Williams;Thaïlandais;9;6;8;0;0;01:34:08;32;1;1;3.2;11.1;10.0
+10. Espagne;Doohan;Alpine;Australien;9;7;6;0;0;01:34:14;64;2;1;6.4;8.4;10.0
+10. Espagne;Leclerc;Ferrari;Monégasque;10;8;4;0;0;01:34:24;84;2;0;8.4;6.1;0.0
+10. Espagne;Colapinto;Alpine;Argentin;8;9;2;0;0;01:34:14;25;1;1;2.5;13.2;10.0
+10. Espagne;Hamilton;Ferrari;Britannique;6;10;1;0;0;01:34:14;77;2;0;7.7;6.6;0.0
+10. Espagne;Gasly;Alpine;Français;16;11;0;0;0;01:34:20;14;0;2;1.4;11.9;20.0
+10. Espagne;Sainz;Williams;Espagnol;14;12;0;0;0;01:34:26;15;1;1;1.5;13.1;10.0
+10. Espagne;Piastri;McLaren;Australien;7;13;0;0;0;01:34:20;138;5;0;13.8;5.1;0.0
+10. Espagne;Alonso;Aston Martin;Espagnol;18;14;0;0;0;01:34:45;45;1;0;4.5;11.2;0.0
+10. Espagne;Tsunoda;Red Bull;Japonais;16;15;0;0;0;01:34:26;23;0;3;2.3;10.1;30.0
+10. Espagne;Antonelli;Mercedes;Italien;13;16;0;0;0;01:34:55;27;1;3;2.7;11.3;30.0
+10. Espagne;Ocon;Haas;Français;13;17;0;0;0;01:34:31;15;1;3;1.5;15.0;30.0
+10. Espagne;Hadjar;Racing Bulls;Français;21;18;0;0;0;01:34:50;24;0;1;2.4;10.8;10.0
+10. Espagne;Stroll;Aston Martin;Canadien;19;19;0;0;0;01:34:35;20;0;1;2.0;11.9;10.0
+10. Espagne;Hülkenberg;Kick Sauber;Allemand;15;20;0;0;0;01:34:39;55;2;0;5.5;11.4;0.0
+10. Espagne;Lawson;Red Bull;Néo-Zélandais;20;21;0;0;0;01:34:38;25;1;0;2.5;13.9;0.0
+11. Autriche;Norris;McLaren;Britannique;2;1;25;1;0;01:32:59;111;3;0;10.09;6.0;0.0
+11. Autriche;Leclerc;Ferrari;Monégasque;2;2;18;1;0;01:33:05;102;3;0;9.27;5.7;0.0
+11. Autriche;Verstappen;Red Bull;Néerlandais;4;3;15;1;0;01:33:10;175;8;0;15.91;3.4;0.0
+11. Autriche;Doohan;Alpine;Australien;8;4;12;0;0;01:33:07;76;2;1;6.91;8.0;9.1
+11. Autriche;Antonelli;Mercedes;Italien;5;5;10;0;0;01:33:13;37;1;3;3.36;10.5;27.3
+11. Autriche;Piastri;McLaren;Australien;6;6;8;0;0;01:33:18;146;5;0;13.27;5.2;0.0
+11. Autriche;Hamilton;Ferrari;Britannique;5;7;6;0;0;01:33:17;83;2;0;7.55;6.6;0.0
+11. Autriche;Sainz;Williams;Espagnol;10;8;4;0;0;01:33:28;19;1;1;1.73;12.6;9.1
+11. Autriche;Lawson;Red Bull;Néo-Zélandais;11;9;2;0;0;01:33:27;27;1;0;2.45;13.5;0.0
+11. Autriche;Bearman;Haas;Britannique;7;10;1;0;0;01:33:25;23;0;2;2.09;11.2;18.2
+11. Autriche;Colapinto;Alpine;Argentin;7;11;0;0;0;01:33:42;25;1;1;2.27;13.0;9.1
+11. Autriche;Hadjar;Racing Bulls;Français;12;12;0;0;0;01:33:27;24;0;1;2.18;10.9;9.1
+11. Autriche;Albon;Williams;Thaïlandais;9;13;0;0;0;01:33:35;32;1;1;2.91;11.3;9.1
+11. Autriche;Tsunoda;Red Bull;Japonais;13;14;0;0;0;01:33:51;23;0;3;2.09;10.6;27.3
+11. Autriche;Hülkenberg;Kick Sauber;Allemand;16;15;0;0;0;01:33:51;55;2;0;5.0;11.7;0.0
+11. Autriche;Stroll;Aston Martin;Canadien;21;16;0;0;0;01:33:56;20;0;1;1.82;12.3;9.1
+11. Autriche;Alonso;Aston Martin;Espagnol;17;17;0;0;0;01:33:37;45;1;0;4.09;11.7;0.0
+11. Autriche;Bortoleto;Kick Sauber;Brésilien;21;18;0;0;0;01:34:09;39;1;1;3.55;11.7;9.1
+11. Autriche;Ocon;Haas;Français;21;19;0;0;0;01:34:03;15;1;3;1.36;15.5;27.3
+11. Autriche;Russell;Mercedes;Britannique;19;20;0;0;0;01:33:58;20;0;0;1.82;12.0;0.0
+11. Autriche;Gasly;Alpine;Français;21;21;0;0;0;01:33:54;14;0;2;1.27;12.9;18.2
+12. Grande-Bretagne;Hamilton;Ferrari;Britannique;1;1;25;1;0;01:28:02;108;3;0;9.0;6.2;0.0
+12. Grande-Bretagne;Piastri;McLaren;Australien;2;2;18;1;0;01:28:06;164;6;0;13.67;4.9;0.0
+12. Grande-Bretagne;Gasly;Alpine;Français;1;3;15;1;0;01:28:09;29;1;2;2.42;11.9;16.7
+12. Grande-Bretagne;Antonelli;Mercedes;Italien;5;4;12;0;0;01:28:13;49;1;3;4.08;9.8;25.0
+12. Grande-Bretagne;Bortoleto;Kick Sauber;Brésilien;2;5;10;0;0;01:28:15;49;1;1;4.08;11.1;8.3
+12. Grande-Bretagne;Bearman;Haas;Britannique;6;6;8;0;0;01:28:18;31;0;2;2.58;10.7;16.7
+12. Grande-Bretagne;Russell;Mercedes;Britannique;5;7;6;0;0;01:28:22;26;0;0;2.17;11.6;0.0
+12. Grande-Bretagne;Tsunoda;Red Bull;Japonais;10;8;4;0;0;01:28:22;27;0;3;2.25;10.3;25.0
+12. Grande-Bretagne;Doohan;Alpine;Australien;9;9;2;0;0;01:28:33;78;2;1;6.5;8.1;8.3
+12. Grande-Bretagne;Alonso;Aston Martin;Espagnol;11;10;1;0;0;01:28:33;46;1;0;3.83;11.6;0.0
+12. Grande-Bretagne;Verstappen;Red Bull;Néerlandais;12;11;0;0;0;01:28:41;175;8;0;14.58;4.0;0.0
+12. Grande-Bretagne;Norris;McLaren;Britannique;12;12;0;0;0;01:28:39;111;3;0;9.25;6.5;0.0
+12. Grande-Bretagne;Albon;Williams;Thaïlandais;10;13;0;0;0;01:28:33;32;1;1;2.67;11.5;8.3
+12. Grande-Bretagne;Hülkenberg;Kick Sauber;Allemand;14;14;0;0;0;01:28:48;55;2;0;4.58;11.9;0.0
+12. Grande-Bretagne;Sainz;Williams;Espagnol;9;15;0;0;0;01:28:32;19;1;1;1.58;12.8;8.3
+12. Grande-Bretagne;Stroll;Aston Martin;Canadien;15;16;0;0;0;01:28:49;20;0;1;1.67;12.6;8.3
+12. Grande-Bretagne;Hadjar;Racing Bulls;Français;18;17;0;0;0;01:29:09;24;0;1;2.0;11.5;8.3
+12. Grande-Bretagne;Colapinto;Alpine;Argentin;21;DNF;0;0;1;N/A;25;1;2;2.08;13.0;16.7
+12. Grande-Bretagne;Lawson;Red Bull;Néo-Zélandais;18;DNF;0;0;1;N/A;27;1;1;2.25;13.5;8.3
+12. Grande-Bretagne;Leclerc;Ferrari;Monégasque;18;DNF;0;0;1;N/A;102;3;1;8.5;5.7;8.3
+12. Grande-Bretagne;Ocon;Haas;Français;18;DNF;0;0;1;N/A;15;1;4;1.25;15.5;33.3
+13. Hongrie;Verstappen;Red Bull;Néerlandais;4;1;25;1;0;01:29:18;200;9;0;15.38;3.8;0.0
+13. Hongrie;Tsunoda;Red Bull;Japonais;1;2;18;1;0;01:29:25;45;1;3;3.46;9.5;23.1
+13. Hongrie;Hamilton;Ferrari;Britannique;3;3;15;1;0;01:29:27;123;4;0;9.46;5.9;0.0
+13. Hongrie;Russell;Mercedes;Britannique;1;4;12;0;0;01:29:32;38;0;0;2.92;11.0;0.0
+13. Hongrie;Gasly;Alpine;Français;5;5;10;0;0;01:29:37;39;1;2;3.0;11.3;15.4
+13. Hongrie;Lawson;Red Bull;Néo-Zélandais;8;6;8;0;0;01:29:33;35;1;1;2.69;12.8;7.7
+13. Hongrie;Piastri;McLaren;Australien;3;7;6;0;0;01:29:36;170;6;0;13.08;5.1;0.0
+13. Hongrie;Ocon;Haas;Français;8;8;4;0;0;01:29:48;19;1;4;1.46;14.7;30.8
+13. Hongrie;Sainz;Williams;Espagnol;6;9;2;0;0;01:29:51;21;1;1;1.62;12.5;7.7
+13. Hongrie;Colapinto;Alpine;Argentin;10;10;1;0;0;01:29:47;26;1;2;2.0;12.7;15.4
+13. Hongrie;Leclerc;Ferrari;Monégasque;13;11;0;0;0;01:29:58;102;3;1;7.85;6.2;7.7
+13. Hongrie;Bearman;Haas;Britannique;12;12;0;0;0;01:30:03;31;0;2;2.38;10.8;15.4
+13. Hongrie;Alonso;Aston Martin;Espagnol;11;13;0;0;0;01:29:48;46;1;0;3.54;11.7;0.0
+13. Hongrie;Stroll;Aston Martin;Canadien;9;14;0;0;0;01:29:55;20;0;1;1.54;12.8;7.7
+13. Hongrie;Hadjar;Racing Bulls;Français;14;15;0;0;0;01:29:59;24;0;1;1.85;11.8;7.7
+13. Hongrie;Albon;Williams;Thaïlandais;21;DNF;0;0;1;N/A;32;1;2;2.46;11.5;15.4
+13. Hongrie;Antonelli;Mercedes;Italien;20;DNF;0;0;1;N/A;49;1;4;3.77;9.8;30.8
+13. Hongrie;Bortoleto;Kick Sauber;Brésilien;20;DNF;0;0;1;N/A;49;1;2;3.77;11.1;15.4
+13. Hongrie;Doohan;Alpine;Australien;21;DNF;0;0;1;N/A;78;2;2;6.0;8.1;15.4
+13. Hongrie;Hülkenberg;Kick Sauber;Allemand;17;DNF;0;0;1;N/A;55;2;1;4.23;11.9;7.7
+13. Hongrie;Norris;McLaren;Britannique;16;DNF;0;0;1;N/A;111;3;1;8.54;6.5;7.7
+14. Belgique;Leclerc;Ferrari;Monégasque;1;1;25;1;0;01:35:17;127;4;1;9.07;5.8;7.1
+14. Belgique;Hadjar;Racing Bulls;Français;4;2;18;1;0;01:35:22;42;1;1;3.0;11.0;7.1
+14. Belgique;Piastri;McLaren;Australien;7;3;15;1;0;01:35:23;185;7;0;13.21;4.9;0.0
+14. Belgique;Russell;Mercedes;Britannique;4;4;12;0;0;01:35:31;50;0;0;3.57;10.5;0.0
+14. Belgique;Hamilton;Ferrari;Britannique;7;5;10;0;0;01:35:32;133;4;0;9.5;5.9;0.0
+14. Belgique;Tsunoda;Red Bull;Japonais;4;6;8;0;0;01:35:37;53;1;3;3.79;9.2;21.4
+14. Belgique;Bortoleto;Kick Sauber;Brésilien;7;7;6;0;0;01:35:40;55;1;2;3.93;10.8;14.3
+14. Belgique;Ocon;Haas;Français;6;8;4;0;0;01:35:47;23;1;4;1.64;14.0;28.6
+14. Belgique;Sainz;Williams;Espagnol;10;9;2;0;0;01:35:52;23;1;1;1.64;12.2;7.1
+14. Belgique;Colapinto;Alpine;Argentin;12;10;1;0;0;01:35:53;27;1;2;1.93;12.5;14.3
+14. Belgique;Stroll;Aston Martin;Canadien;9;11;0;0;0;01:35:39;20;0;1;1.43;12.6;7.1
+14. Belgique;Bearman;Haas;Britannique;15;12;0;0;0;01:35:42;31;0;2;2.21;10.9;14.3
+14. Belgique;Verstappen;Red Bull;Néerlandais;13;13;0;0;0;01:36:06;200;9;0;14.29;4.4;0.0
+14. Belgique;Doohan;Alpine;Australien;14;14;0;0;0;01:36:06;78;2;2;5.57;8.6;14.3
+14. Belgique;Gasly;Alpine;Français;9;15;0;0;0;01:36:06;39;1;2;2.79;11.6;14.3
+14. Belgique;Lawson;Red Bull;Néo-Zélandais;14;16;0;0;0;01:36:05;35;1;1;2.5;13.1;7.1
+14. Belgique;Alonso;Aston Martin;Espagnol;21;17;0;0;0;01:35:55;46;1;0;3.29;12.1;0.0
+14. Belgique;Albon;Williams;Thaïlandais;20;DNF;0;0;1;N/A;32;1;3;2.29;11.5;21.4
+14. Belgique;Antonelli;Mercedes;Italien;19;DNF;0;0;1;N/A;49;1;5;3.5;9.8;35.7
+14. Belgique;Hülkenberg;Kick Sauber;Allemand;21;DNF;0;0;1;N/A;55;2;2;3.93;11.9;14.3
+14. Belgique;Norris;McLaren;Britannique;18;DNF;0;0;1;N/A;111;3;2;7.93;6.5;14.3
+15. Pays-Bas;Doohan;Alpine;Australien;5;1;25;1;0;01:35:27;103;3;2;6.87;8.0;13.3
+15. Pays-Bas;Verstappen;Red Bull;Néerlandais;5;2;18;1;0;01:35:33;218;10;0;14.53;4.3;0.0
+15. Pays-Bas;Piastri;McLaren;Australien;2;3;15;1;0;01:35:33;200;8;0;13.33;4.8;0.0
+15. Pays-Bas;Colapinto;Alpine;Argentin;3;4;12;0;0;01:35:41;39;1;2;2.6;11.8;13.3
+15. Pays-Bas;Tsunoda;Red Bull;Japonais;3;5;10;0;0;01:35:37;63;1;3;4.2;8.8;20.0
+15. Pays-Bas;Hadjar;Racing Bulls;Français;1;6;8;0;0;01:35:46;50;1;1;3.33;10.6;6.7
+15. Pays-Bas;Norris;McLaren;Britannique;6;7;6;0;0;01:35:43;117;3;2;7.8;6.5;13.3
+15. Pays-Bas;Sainz;Williams;Espagnol;8;8;4;0;0;01:35:51;27;1;1;1.8;11.9;6.7
+15. Pays-Bas;Bortoleto;Kick Sauber;Brésilien;9;9;2;0;0;01:35:49;57;1;2;3.8;10.6;13.3
+15. Pays-Bas;Alonso;Aston Martin;Espagnol;10;10;1;0;0;01:35:50;47;1;0;3.13;11.9;0.0
+15. Pays-Bas;Hamilton;Ferrari;Britannique;11;11;0;0;0;01:36:10;133;4;0;8.87;6.2;0.0
+15. Pays-Bas;Albon;Williams;Thaïlandais;11;12;0;0;0;01:36:07;32;1;3;2.13;11.5;20.0
+15. Pays-Bas;Ocon;Haas;Français;9;13;0;0;0;01:36:15;23;1;4;1.53;13.9;26.7
+15. Pays-Bas;Lawson;Red Bull;Néo-Zélandais;17;14;0;0;0;01:35:58;35;1;1;2.33;13.1;6.7
+15. Pays-Bas;Russell;Mercedes;Britannique;13;15;0;0;0;01:35:58;50;0;0;3.33;10.8;0.0
+15. Pays-Bas;Leclerc;Ferrari;Monégasque;17;16;0;0;0;01:36:09;127;4;1;8.47;6.5;6.7
+15. Pays-Bas;Bearman;Haas;Britannique;21;17;0;0;0;01:36:06;31;0;2;2.07;11.4;13.3
+15. Pays-Bas;Gasly;Alpine;Français;17;18;0;0;0;01:36:28;39;1;2;2.6;12.1;13.3
+15. Pays-Bas;Stroll;Aston Martin;Canadien;20;19;0;0;0;01:36:24;20;0;1;1.33;13.1;6.7
+15. Pays-Bas;Antonelli;Mercedes;Italien;21;20;0;0;0;01:36:20;49;1;5;3.27;10.8;33.3
+15. Pays-Bas;Hülkenberg;Kick Sauber;Allemand;21;21;0;0;0;01:36:13;55;2;2;3.67;12.6;13.3
+16. Italie;Lawson;Red Bull;Néo-Zélandais;1;1;25;1;0;01:28:10;60;2;1;3.75;12.3;6.2
+16. Italie;Alonso;Aston Martin;Espagnol;4;2;18;1;0;01:28:17;65;2;0;4.06;11.3;0.0
+16. Italie;Piastri;McLaren;Australien;4;3;15;1;0;01:28:21;215;9;0;13.44;4.7;0.0
+16. Italie;Ocon;Haas;Français;9;4;12;0;0;01:28:24;35;1;4;2.19;13.1;25.0
+16. Italie;Hülkenberg;Kick Sauber;Allemand;5;5;10;0;0;01:28:24;65;2;2;4.06;12.1;12.5
+16. Italie;Antonelli;Mercedes;Italien;6;6;8;0;0;01:28:26;57;1;5;3.56;10.4;31.2
+16. Italie;Russell;Mercedes;Britannique;11;7;6;0;0;01:28:36;56;0;0;3.5;10.6;0.0
+16. Italie;Norris;McLaren;Britannique;6;8;4;0;0;01:28:36;121;3;2;7.56;6.6;12.5
+16. Italie;Bortoleto;Kick Sauber;Brésilien;14;9;2;0;0;01:28:41;59;1;2;3.69;10.5;12.5
+16. Italie;Albon;Williams;Thaïlandais;10;10;1;0;0;01:28:37;33;1;3;2.06;11.4;18.8
+16. Italie;Gasly;Alpine;Français;12;11;0;0;0;01:28:41;39;1;2;2.44;12.0;12.5
+16. Italie;Doohan;Alpine;Australien;13;12;0;0;0;01:28:35;103;3;2;6.44;8.3;12.5
+16. Italie;Hadjar;Racing Bulls;Français;10;13;0;0;0;01:28:54;50;1;1;3.12;10.8;6.2
+16. Italie;Colapinto;Alpine;Argentin;15;14;0;0;0;01:28:51;39;1;2;2.44;12.0;12.5
+16. Italie;Tsunoda;Red Bull;Japonais;10;15;0;0;0;01:29:07;63;1;3;3.94;9.3;18.8
+16. Italie;Stroll;Aston Martin;Canadien;16;16;0;0;0;01:29:05;20;0;1;1.25;13.3;6.2
+16. Italie;Leclerc;Ferrari;Monégasque;17;17;0;0;0;01:28:56;127;4;1;7.94;7.2;6.2
+16. Italie;Sainz;Williams;Espagnol;15;18;0;0;0;01:29:01;27;1;1;1.69;12.3;6.2
+16. Italie;Verstappen;Red Bull;Néerlandais;17;19;0;0;0;01:29:13;218;10;0;13.62;5.2;0.0
+16. Italie;Bearman;Haas;Britannique;20;20;0;0;0;01:28:55;31;0;2;1.94;12.0;12.5
+16. Italie;Hamilton;Ferrari;Britannique;21;DNF;0;0;1;N/A;133;4;1;8.31;6.2;6.2
+17. Azerbaïdjan;Piastri;McLaren;Australien;1;1;25;1;0;01:33:15;240;10;0;14.12;4.5;0.0
+17. Azerbaïdjan;Hamilton;Ferrari;Britannique;1;2;18;1;0;01:33:22;151;5;1;8.88;5.9;5.9
+17. Azerbaïdjan;Hadjar;Racing Bulls;Français;1;3;15;1;0;01:33:21;65;2;1;3.82;10.3;5.9
+17. Azerbaïdjan;Gasly;Alpine;Français;1;4;12;0;0;01:33:25;51;1;2;3.0;11.5;11.8
+17. Azerbaïdjan;Albon;Williams;Thaïlandais;5;5;10;0;0;01:33:30;43;1;3;2.53;10.9;17.6
+17. Azerbaïdjan;Ocon;Haas;Français;4;6;8;0;0;01:33:34;43;1;4;2.53;12.5;23.5
+17. Azerbaïdjan;Leclerc;Ferrari;Monégasque;7;7;6;0;0;01:33:31;133;4;1;7.82;7.2;5.9
+17. Azerbaïdjan;Alonso;Aston Martin;Espagnol;9;8;4;0;0;01:33:41;69;2;0;4.06;11.1;0.0
+17. Azerbaïdjan;Bearman;Haas;Britannique;8;9;2;0;0;01:33:49;33;0;2;1.94;11.8;11.8
+17. Azerbaïdjan;Hülkenberg;Kick Sauber;Allemand;4;10;1;0;0;01:33:44;66;2;2;3.88;11.9;11.8
+17. Azerbaïdjan;Bortoleto;Kick Sauber;Brésilien;10;11;0;0;0;01:33:45;59;1;2;3.47;10.5;11.8
+17. Azerbaïdjan;Doohan;Alpine;Australien;12;12;0;0;0;01:34:02;103;3;2;6.06;8.5;11.8
+17. Azerbaïdjan;Russell;Mercedes;Britannique;13;13;0;0;0;01:33:41;56;0;0;3.29;10.7;0.0
+17. Azerbaïdjan;Norris;McLaren;Britannique;13;14;0;0;0;01:33:43;121;3;2;7.12;7.1;11.8
+17. Azerbaïdjan;Lawson;Red Bull;Néo-Zélandais;16;15;0;0;0;01:33:59;60;2;1;3.53;12.5;5.9
+17. Azerbaïdjan;Colapinto;Alpine;Argentin;18;16;0;0;0;01:34:18;39;1;2;2.29;12.3;11.8
+17. Azerbaïdjan;Stroll;Aston Martin;Canadien;16;17;0;0;0;01:34:22;20;0;1;1.18;13.5;5.9
+17. Azerbaïdjan;Sainz;Williams;Espagnol;18;18;0;0;0;01:34:03;27;1;1;1.59;12.7;5.9
+17. Azerbaïdjan;Antonelli;Mercedes;Italien;19;DNF;0;0;1;N/A;57;1;6;3.35;10.4;35.3
+17. Azerbaïdjan;Tsunoda;Red Bull;Japonais;19;DNF;0;0;1;N/A;63;1;4;3.71;9.3;23.5
+17. Azerbaïdjan;Verstappen;Red Bull;Néerlandais;21;DNF;0;0;1;N/A;218;10;1;12.82;5.2;5.9
+18. Singapour;Norris;McLaren;Britannique;1;1;25;1;0;01:32:01;146;4;2;8.11;6.8;11.1
+18. Singapour;Piastri;McLaren;Australien;3;2;18;1;0;01:32:07;258;11;0;14.33;4.3;0.0
+18. Singapour;Hamilton;Ferrari;Britannique;1;3;15;1;0;01:32:07;166;6;1;9.22;5.8;5.6
+18. Singapour;Tsunoda;Red Bull;Japonais;3;4;12;0;0;01:32:16;75;1;4;4.17;8.9;22.2
+18. Singapour;Alonso;Aston Martin;Espagnol;5;5;10;0;0;01:32:19;79;2;0;4.39;10.8;0.0
+18. Singapour;Albon;Williams;Thaïlandais;7;6;8;0;0;01:32:15;51;1;3;2.83;10.6;16.7
+18. Singapour;Russell;Mercedes;Britannique;8;7;6;0;0;01:32:21;62;0;0;3.44;10.5;0.0
+18. Singapour;Leclerc;Ferrari;Monégasque;10;8;4;0;0;01:32:30;137;4;1;7.61;7.2;5.6
+18. Singapour;Hadjar;Racing Bulls;Français;12;9;2;0;0;01:32:28;67;2;1;3.72;10.2;5.6
+18. Singapour;Bortoleto;Kick Sauber;Brésilien;10;10;1;0;0;01:32:32;60;1;2;3.33;10.5;11.1
+18. Singapour;Hülkenberg;Kick Sauber;Allemand;11;11;0;0;0;01:32:30;66;2;2;3.67;11.9;11.1
+18. Singapour;Antonelli;Mercedes;Italien;12;12;0;0;0;01:32:48;57;1;6;3.17;10.5;33.3
+18. Singapour;Lawson;Red Bull;Néo-Zélandais;14;13;0;0;0;01:32:48;60;2;1;3.33;12.5;5.6
+18. Singapour;Sainz;Williams;Espagnol;14;14;0;0;0;01:32:38;27;1;1;1.5;12.8;5.6
+18. Singapour;Ocon;Haas;Français;18;15;0;0;0;01:32:38;43;1;4;2.39;12.7;22.2
+18. Singapour;Colapinto;Alpine;Argentin;19;16;0;0;0;01:33:04;39;1;2;2.17;12.5;11.1
+18. Singapour;Stroll;Aston Martin;Canadien;20;17;0;0;0;01:33:06;20;0;1;1.11;13.7;5.6
+18. Singapour;Gasly;Alpine;Français;11;18;0;0;0;01:32:46;51;1;2;2.83;11.9;11.1
+18. Singapour;Bearman;Haas;Britannique;17;DNF;0;0;1;N/A;33;0;3;1.83;11.8;16.7
+18. Singapour;Doohan;Alpine;Australien;16;DNF;0;0;1;N/A;103;3;3;5.72;8.5;16.7
+18. Singapour;Verstappen;Red Bull;Néerlandais;19;DNF;0;0;1;N/A;218;10;2;12.11;5.2;11.1
+19. États-Unis;Ocon;Haas;Français;5;1;25;1;0;01:29:02;68;2;4;3.58;11.9;21.1
+19. États-Unis;Hülkenberg;Kick Sauber;Allemand;1;2;18;1;0;01:29:06;84;3;2;4.42;11.3;10.5
+19. États-Unis;Norris;McLaren;Britannique;2;3;15;1;0;01:29:10;161;5;2;8.47;6.5;10.5
+19. États-Unis;Leclerc;Ferrari;Monégasque;6;4;12;0;0;01:29:10;149;4;1;7.84;7.1;5.3
+19. États-Unis;Hamilton;Ferrari;Britannique;5;5;10;0;0;01:29:21;176;6;1;9.26;5.7;5.3
+19. États-Unis;Stroll;Aston Martin;Canadien;6;6;8;0;0;01:29:21;28;0;1;1.47;13.3;5.3
+19. États-Unis;Verstappen;Red Bull;Néerlandais;11;7;6;0;0;01:29:21;224;10;2;11.79;5.3;10.5
+19. États-Unis;Hadjar;Racing Bulls;Français;8;8;4;0;0;01:29:28;71;2;1;3.74;10.1;5.3
+19. États-Unis;Gasly;Alpine;Français;9;9;2;0;0;01:29:30;53;1;2;2.79;11.7;10.5
+19. États-Unis;Lawson;Red Bull;Néo-Zélandais;9;10;1;0;0;01:29:33;61;2;1;3.21;12.4;5.3
+19. États-Unis;Bortoleto;Kick Sauber;Brésilien;8;11;0;0;0;01:29:32;60;1;2;3.16;10.5;10.5
+19. États-Unis;Bearman;Haas;Britannique;7;12;0;0;0;01:29:32;33;0;3;1.74;11.8;15.8
+19. États-Unis;Piastri;McLaren;Australien;14;13;0;0;0;01:29:35;258;11;0;13.58;4.8;0.0
+19. États-Unis;Sainz;Williams;Espagnol;17;14;0;0;0;01:29:45;27;1;1;1.42;12.8;5.3
+19. États-Unis;Colapinto;Alpine;Argentin;10;15;0;0;0;01:29:55;39;1;2;2.05;12.6;10.5
+19. États-Unis;Russell;Mercedes;Britannique;16;16;0;0;0;01:29:45;62;0;0;3.26;10.8;0.0
+19. États-Unis;Alonso;Aston Martin;Espagnol;13;17;0;0;0;01:29:58;79;2;0;4.16;11.1;0.0
+19. États-Unis;Tsunoda;Red Bull;Japonais;21;18;0;0;0;01:29:52;75;1;4;3.95;9.5;21.1
+19. États-Unis;Antonelli;Mercedes;Italien;17;19;0;0;0;01:30:17;57;1;6;3.0;11.2;31.6
+19. États-Unis;Albon;Williams;Thaïlandais;21;DNF;0;0;1;N/A;51;1;4;2.68;10.6;21.1
+19. États-Unis;Doohan;Alpine;Australien;21;DNF;0;0;1;N/A;103;3;4;5.42;8.5;21.1
+20. Mexique;Hadjar;Racing Bulls;Français;1;1;25;1;0;01:28:05;96;3;1;4.8;9.6;5.0
+20. Mexique;Verstappen;Red Bull;Néerlandais;1;2;18;1;0;01:28:09;242;11;2;12.1;5.1;10.0
+20. Mexique;Tsunoda;Red Bull;Japonais;3;3;15;1;0;01:28:11;90;2;4;4.5;9.1;20.0
+20. Mexique;Russell;Mercedes;Britannique;5;4;12;0;0;01:28:19;74;0;0;3.7;10.4;0.0
+20. Mexique;Hamilton;Ferrari;Britannique;4;5;10;0;0;01:28:20;186;6;1;9.3;5.7;5.0
+20. Mexique;Piastri;McLaren;Australien;9;6;8;0;0;01:28:28;266;11;0;13.3;4.8;0.0
+20. Mexique;Sainz;Williams;Espagnol;10;7;6;0;0;01:28:29;33;1;1;1.65;12.5;5.0
+20. Mexique;Lawson;Red Bull;Néo-Zélandais;13;8;4;0;0;01:28:32;65;2;1;3.25;12.2;5.0
+20. Mexique;Bearman;Haas;Britannique;14;9;2;0;0;01:28:27;35;0;3;1.75;11.6;15.0
+20. Mexique;Bortoleto;Kick Sauber;Brésilien;10;10;1;0;0;01:28:31;61;1;2;3.05;10.5;10.0
+20. Mexique;Norris;McLaren;Britannique;11;11;0;0;0;01:28:34;161;5;2;8.05;6.8;10.0
+20. Mexique;Leclerc;Ferrari;Monégasque;12;12;0;0;0;01:28:31;149;4;1;7.45;7.3;5.0
+20. Mexique;Albon;Williams;Thaïlandais;13;13;0;0;0;01:28:37;51;1;4;2.55;10.8;20.0
+20. Mexique;Antonelli;Mercedes;Italien;14;14;0;0;0;01:28:54;57;1;6;2.85;11.4;30.0
+20. Mexique;Hülkenberg;Kick Sauber;Allemand;16;15;0;0;0;01:28:44;84;3;2;4.2;11.5;10.0
+20. Mexique;Alonso;Aston Martin;Espagnol;16;16;0;0;0;01:28:37;79;2;0;3.95;11.4;0.0
+20. Mexique;Gasly;Alpine;Français;15;17;0;0;0;01:28:44;53;1;2;2.65;12.0;10.0
+20. Mexique;Ocon;Haas;Français;18;18;0;0;0;01:29:04;68;2;4;3.4;12.3;20.0
+20. Mexique;Doohan;Alpine;Australien;20;19;0;0;0;01:29:11;103;3;4;5.15;9.2;20.0
+20. Mexique;Stroll;Aston Martin;Canadien;17;20;0;0;0;01:29:21;28;0;1;1.4;13.6;5.0
+20. Mexique;Colapinto;Alpine;Argentin;21;DNF;0;0;1;N/A;39;1;3;1.95;12.6;15.0
+21. Brésil;Piastri;McLaren;Australien;8;1;25;1;0;01:31:10;291;12;0;13.86;4.7;0.0
+21. Brésil;Verstappen;Red Bull;Néerlandais;6;2;18;1;0;01:31:16;260;12;2;12.38;4.9;9.5
+21. Brésil;Colapinto;Alpine;Argentin;2;3;15;1;0;01:31:19;54;2;3;2.57;12.1;14.3
+21. Brésil;Bearman;Haas;Britannique;4;4;12;0;0;01:31:25;47;0;3;2.24;11.2;14.3
+21. Brésil;Lawson;Red Bull;Néo-Zélandais;7;5;10;0;0;01:31:22;75;2;1;3.57;11.8;4.8
+21. Brésil;Alonso;Aston Martin;Espagnol;2;6;8;0;0;01:31:25;87;2;0;4.14;11.1;0.0
+21. Brésil;Ocon;Haas;Français;7;7;6;0;0;01:31:35;74;2;4;3.52;12.0;19.0
+21. Brésil;Norris;McLaren;Britannique;14;8;4;0;0;01:31:40;165;5;2;7.86;6.8;9.5
+21. Brésil;Russell;Mercedes;Britannique;10;9;2;0;0;01:31:30;76;0;0;3.62;10.4;0.0
+21. Brésil;Hülkenberg;Kick Sauber;Allemand;14;10;1;0;0;01:31:42;85;3;2;4.05;11.4;9.5
+21. Brésil;Bortoleto;Kick Sauber;Brésilien;8;11;0;0;0;01:31:46;61;1;2;2.9;10.5;9.5
+21. Brésil;Stroll;Aston Martin;Canadien;13;12;0;0;0;01:31:34;28;0;1;1.33;13.6;4.8
+21. Brésil;Albon;Williams;Thaïlandais;16;13;0;0;0;01:31:43;51;1;4;2.43;10.9;19.0
+21. Brésil;Hadjar;Racing Bulls;Français;14;14;0;0;0;01:31:51;96;3;1;4.57;9.8;4.8
+21. Brésil;Antonelli;Mercedes;Italien;13;15;0;0;0;01:32:06;57;1;6;2.71;11.6;28.6
+21. Brésil;Hamilton;Ferrari;Britannique;18;16;0;0;0;01:32:02;186;6;1;8.86;6.2;4.8
+21. Brésil;Doohan;Alpine;Australien;19;DNF;0;0;1;N/A;103;3;5;4.9;9.2;23.8
+21. Brésil;Gasly;Alpine;Français;19;DNF;0;0;1;N/A;53;1;3;2.52;12.0;14.3
+21. Brésil;Leclerc;Ferrari;Monégasque;16;DNF;0;0;1;N/A;149;4;2;7.1;7.3;9.5
+21. Brésil;Sainz;Williams;Espagnol;21;DNF;0;0;1;N/A;33;1;2;1.57;12.5;9.5
+21. Brésil;Tsunoda;Red Bull;Japonais;14;DNF;0;0;1;N/A;90;2;5;4.29;9.1;23.8
+22. Las Vegas;Hamilton;Ferrari;Britannique;1;1;25;1;0;01:26:50;211;7;1;9.59;6.0;4.5
+22. Las Vegas;Leclerc;Ferrari;Monégasque;2;2;18;1;0;01:26:56;167;5;2;7.59;7.0;9.1
+22. Las Vegas;Norris;McLaren;Britannique;3;3;15;1;0;01:27:01;180;6;2;8.18;6.6;9.1
+22. Las Vegas;Sainz;Williams;Espagnol;2;4;12;0;0;01:26:59;45;1;2;2.05;12.1;9.1
+22. Las Vegas;Hadjar;Racing Bulls;Français;7;5;10;0;0;01:27:03;106;3;1;4.82;9.6;4.5
+22. Las Vegas;Verstappen;Red Bull;Néerlandais;9;6;8;0;0;01:27:13;268;12;2;12.18;5.0;9.1
+22. Las Vegas;Colapinto;Alpine;Argentin;8;7;6;0;0;01:27:11;60;2;3;2.73;11.8;13.6
+22. Las Vegas;Russell;Mercedes;Britannique;9;8;4;0;0;01:27:08;80;0;0;3.64;10.3;0.0
+22. Las Vegas;Hülkenberg;Kick Sauber;Allemand;10;9;2;0;0;01:27:11;87;3;2;3.95;11.3;9.1
+22. Las Vegas;Gasly;Alpine;Français;11;10;1;0;0;01:27:27;54;1;3;2.45;11.9;13.6
+22. Las Vegas;Alonso;Aston Martin;Espagnol;11;11;0;0;0;01:27:25;87;2;0;3.95;11.1;0.0
+22. Las Vegas;Doohan;Alpine;Australien;14;12;0;0;0;01:27:33;103;3;5;4.68;9.4;22.7
+22. Las Vegas;Albon;Williams;Thaïlandais;18;13;0;0;0;01:27:31;51;1;4;2.32;11.0;18.2
+22. Las Vegas;Tsunoda;Red Bull;Japonais;10;14;0;0;0;01:27:28;90;2;5;4.09;9.4;22.7
+22. Las Vegas;Lawson;Red Bull;Néo-Zélandais;15;15;0;0;0;01:27:33;75;2;1;3.41;12.0;4.5
+22. Las Vegas;Piastri;McLaren;Australien;16;16;0;0;0;01:27:31;291;12;0;13.23;5.2;0.0
+22. Las Vegas;Antonelli;Mercedes;Italien;15;17;0;0;0;01:27:30;57;1;6;2.59;11.9;27.3
+22. Las Vegas;Ocon;Haas;Français;15;18;0;0;0;01:27:49;74;2;4;3.36;12.3;18.2
+22. Las Vegas;Bortoleto;Kick Sauber;Brésilien;19;19;0;0;0;01:27:28;61;1;2;2.77;11.0;9.1
+22. Las Vegas;Bearman;Haas;Britannique;19;DNF;0;0;1;N/A;47;0;4;2.14;11.2;18.2
+22. Las Vegas;Stroll;Aston Martin;Canadien;20;DNF;0;0;1;N/A;28;0;2;1.27;13.6;9.1
+23. Qatar;Verstappen;Red Bull;Néerlandais;8;1;25;1;0;01:36:11;293;13;2;12.74;4.8;8.7
+23. Qatar;Hamilton;Ferrari;Britannique;4;2;18;1;0;01:36:18;229;8;1;9.96;5.8;4.3
+23. Qatar;Piastri;McLaren;Australien;2;3;15;1;0;01:36:20;306;13;0;13.3;5.1;0.0
+23. Qatar;Ocon;Haas;Français;7;4;12;0;0;01:36:20;86;2;4;3.74;11.9;17.4
+23. Qatar;Leclerc;Ferrari;Monégasque;5;5;10;0;0;01:36:30;177;5;2;7.7;7.0;8.7
+23. Qatar;Hülkenberg;Kick Sauber;Allemand;4;6;8;0;0;01:36:24;95;3;2;4.13;11.0;8.7
+23. Qatar;Albon;Williams;Thaïlandais;7;7;6;0;0;01:36:29;57;1;4;2.48;10.8;17.4
+23. Qatar;Gasly;Alpine;Français;8;8;4;0;0;01:36:31;58;1;3;2.52;11.7;13.0
+23. Qatar;Norris;McLaren;Britannique;9;9;2;0;0;01:36:40;182;6;2;7.91;6.8;8.7
+23. Qatar;Antonelli;Mercedes;Italien;13;10;1;0;0;01:36:33;58;1;6;2.52;11.8;26.1
+23. Qatar;Tsunoda;Red Bull;Japonais;10;11;0;0;0;01:36:42;90;2;5;3.91;9.5;21.7
+23. Qatar;Lawson;Red Bull;Néo-Zélandais;13;12;0;0;0;01:36:47;75;2;1;3.26;12.0;4.3
+23. Qatar;Russell;Mercedes;Britannique;13;13;0;0;0;01:36:37;80;0;0;3.48;10.4;0.0
+23. Qatar;Doohan;Alpine;Australien;13;14;0;0;0;01:36:57;103;3;5;4.48;9.6;21.7
+23. Qatar;Colapinto;Alpine;Argentin;17;15;0;0;0;01:36:42;60;2;3;2.61;12.0;13.0
+23. Qatar;Sainz;Williams;Espagnol;17;16;0;0;0;01:36:52;45;1;2;1.96;12.3;8.7
+23. Qatar;Stroll;Aston Martin;Canadien;16;17;0;0;0;01:37:03;28;0;2;1.22;13.7;8.7
+23. Qatar;Hadjar;Racing Bulls;Français;21;18;0;0;0;01:36:48;106;3;1;4.61;10.0;4.3
+23. Qatar;Bearman;Haas;Britannique;17;19;0;0;0;01:37:15;47;0;4;2.04;11.6;17.4
+23. Qatar;Alonso;Aston Martin;Espagnol;20;20;0;0;0;01:37:27;87;2;0;3.78;11.5;0.0
+23. Qatar;Bortoleto;Kick Sauber;Brésilien;21;DNF;0;0;1;N/A;61;1;3;2.65;11.0;13.0
+24. Abou Dabi;Hamilton;Ferrari;Britannique;1;1;25;1;0;01:33:22;254;9;1;10.58;5.6;4.2
+24. Abou Dabi;Norris;McLaren;Britannique;5;2;18;1;0;01:33:28;200;7;2;8.33;6.5;8.3
+24. Abou Dabi;Piastri;McLaren;Australien;5;3;15;1;0;01:33:33;321;14;0;13.38;5.0;0.0
+24. Abou Dabi;Hadjar;Racing Bulls;Français;4;4;12;0;0;01:33:37;118;3;1;4.92;9.7;4.2
+24. Abou Dabi;Verstappen;Red Bull;Néerlandais;5;5;10;0;0;01:33:34;303;13;2;12.62;4.8;8.3
+24. Abou Dabi;Russell;Mercedes;Britannique;1;6;8;0;0;01:33:45;88;0;0;3.67;10.2;0.0
+24. Abou Dabi;Albon;Williams;Thaïlandais;7;7;6;0;0;01:33:42;63;1;4;2.62;10.6;16.7
+24. Abou Dabi;Bearman;Haas;Britannique;6;8;4;0;0;01:33:52;51;0;4;2.12;11.4;16.7
+24. Abou Dabi;Alonso;Aston Martin;Espagnol;9;9;2;0;0;01:33:46;89;2;0;3.71;11.4;0.0
+24. Abou Dabi;Stroll;Aston Martin;Canadien;10;10;1;0;0;01:33:56;29;0;2;1.21;13.5;8.3
+24. Abou Dabi;Leclerc;Ferrari;Monégasque;11;11;0;0;0;01:34:04;177;5;2;7.38;7.1;8.3
+24. Abou Dabi;Antonelli;Mercedes;Italien;12;12;0;0;0;01:34:04;58;1;6;2.42;11.8;25.0
+24. Abou Dabi;Hülkenberg;Kick Sauber;Allemand;11;13;0;0;0;01:33:53;95;3;2;3.96;11.1;8.3
+24. Abou Dabi;Lawson;Red Bull;Néo-Zélandais;11;14;0;0;0;01:33:54;75;2;1;3.12;12.0;4.2
+24. Abou Dabi;Colapinto;Alpine;Argentin;15;15;0;0;0;01:33:52;60;2;3;2.5;12.1;12.5
+24. Abou Dabi;Ocon;Haas;Français;16;16;0;0;0;01:34:22;86;2;4;3.58;12.1;16.7
+24. Abou Dabi;Sainz;Williams;Espagnol;17;17;0;0;0;01:34:22;45;1;2;1.88;12.5;8.3
+24. Abou Dabi;Tsunoda;Red Bull;Japonais;18;18;0;0;0;01:34:31;90;2;5;3.75;9.9;20.8
+24. Abou Dabi;Bortoleto;Kick Sauber;Brésilien;14;DNF;0;0;1;N/A;61;1;4;2.54;11.0;16.7
+24. Abou Dabi;Doohan;Alpine;Australien;21;DNF;0;0;1;N/A;103;3;6;4.29;9.6;25.0
+24. Abou Dabi;Gasly;Alpine;Français;18;DNF;0;0;1;N/A;58;1;4;2.42;11.7;16.7
