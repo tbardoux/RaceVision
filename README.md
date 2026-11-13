@@ -51,7 +51,7 @@ Ce jeu de données a été construit pour le projet sur la structure de la saiso
 ## Lancer l'application
 
 ```bash
-git clone https://github.com/timothebardoux-bit/RaceVision.git
+git clone https://github.com/tbardoux/RaceVision.git
 cd RaceVision
 pip install -r requirements.txt
 python racevision.py
@@ -69,4 +69,4 @@ python racevision.py
 
 ## Contact
 
-**Timothé Bardoux** — étudiant ingénieur à l'IPSA · [Mon profil GitHub](https://github.com/timothebardoux-bit)
+**Timothé Bardoux** — étudiant ingénieur à l'IPSA · [Mon profil GitHub](https://github.com/tbardoux)
